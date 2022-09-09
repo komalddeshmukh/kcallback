@@ -1,5 +1,6 @@
 //crate the countdown
 //select an element h1 with
+console.log("k")
 const countdown=document.querySelector(".countdown")
 
 let time=10;
